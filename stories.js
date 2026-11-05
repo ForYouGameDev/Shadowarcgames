@@ -1,4 +1,4 @@
-```javascript
+//javascript
 /* SHADOW ARC GAMES — OPTIONAL GAME STORIES.
    Add one object per story. Connect it to a game using storyId in games.js.
    Use paragraphs: ['First paragraph...', 'Second paragraph...']
@@ -67,4 +67,3 @@ window.SHADOW_ARC_STORIES = [
     ]
   }
 ];
-```
