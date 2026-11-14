@@ -1,7 +1,7 @@
 /* SHADOW ARC GAMES — EDIT THIS FILE TO ADD OR UPDATE GAMES.
    status: 'released' or 'coming-soon'
    storeUrl: paste the exact Google Play URL. Leave '' until available.
-   cover: image path inside assets/, e.g. 'assets/komma-cover.jpg'
+   cover: image path inside assets/, e.g. 'assets/komma-cover.webp'
 */
 window.SHADOW_ARC_GAMES = [
   {
@@ -28,7 +28,7 @@ window.SHADOW_ARC_GAMES = [
     platform: 'Android',
     version: 'Coming soon',
     storeUrl: 'https://play.google.com/store/apps/details?id=com.ShadowArcGames.Komma&hl=en',
-    cover: 'assets/komma-cover.jpg',
+    cover: 'assets/komma-cover.webp',
     featured: true,
     storyId: 'komma-story'
   }
